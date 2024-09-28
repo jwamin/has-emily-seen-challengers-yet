@@ -1,3 +1,3 @@
-const viewed = false;
+const viewed = true;
 
 export default viewed;
