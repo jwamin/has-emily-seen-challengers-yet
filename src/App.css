@@ -13,8 +13,19 @@
   }
 }
 
+.center-fullscreen {
+  font-size: 50vw;
+  position: absolute;
+}
+
+.App-header.yes{
+  background-image: url(../public/smiling-face-tashi.gif);
+}
+
 .App-header {
-  background-color: #282c34;
+  background-image: url(../public/churro.gif);
+  background-size: cover;
+  background-position: center;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
